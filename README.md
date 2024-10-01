@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simabhagat" alt="simabhagat" /></a> </p>
 
-- 🔭 I’m currently working on [cli real estate management app with core java](https://github.com/Simabhagat/realEstateManagementSystem.git)
+- 🔭 I’m currently working on [python chess game](https://github.com/Simabhagat/Python-Chess-Game.git)
 
 - 🌱 I’m currently learning **next.js, java, react.js, python, linux**
 
